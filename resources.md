@@ -7,9 +7,8 @@
 
 
 **My 5 Aesthetic Resources:**
-* h
-* h
-* h
-* h
-* h
-
+* Graphics for AR- https://www.wasp3d.com/television-broadcast-solutions/augmented-reality-graphics-wasp3d#:~:text=Augmented%20Reality%20Graphics%20is%20one,enhance%20the%20television%20viewing%20experience.&text=Enhanced%20storytelling%20for%20better%20interaction%20between%20presenters%20and%20graphical%20objects
+* Aesthetics for AR- https://www.augmentedstories.com/blog/2019/2/5/defining-a-new-aesthetics-in-augmented-reality
+* More Aesthetics for AR- https://www.researchgate.net/publication/321420180_The_Aesthetic_Experience_of_Augmented_Reality_Art
+* Photo of a very detailed rock generated within the world using AR- https://thesocietypages.org/cyborgology/files/2013/01/tumblr_mc2rfxMJSn1rgcobqo1_500.jpg 
+* Photo of a large balloon dog found at a park using AR- https://failedarchitecture.com/wp-content/uploads/2018/09/SebastianErrazurizKoons01LOW-e1537368308513.jpg

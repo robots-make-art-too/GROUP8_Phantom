@@ -1,5 +1,10 @@
 5 x technical resources 
 
+1. Face Detection in Python Using a Webcam - https://realpython.com/face-detection-in-python-using-a-webcam/
+2.
+3.
+4.
+5.
 
 
 

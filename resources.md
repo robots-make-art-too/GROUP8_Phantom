@@ -12,4 +12,4 @@ Everyone first fetch this file into your own branch to edit and add your links s
 - http://designstacks.net/the-making-of-an-icon
 - http://www.sketchup.edu.my/tutorial-3-creating-spiral-staircase
 - https://www.headway.io/blog/designers-guide-to-icons
-- https://icon-icons.com/search/icons/?filtro=
+- https://www.flaticon.com/free-icons/art

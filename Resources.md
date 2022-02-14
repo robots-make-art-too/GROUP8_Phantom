@@ -2,12 +2,9 @@
 
 1. Face Detection in Python Using a Webcam - https://realpython.com/face-detection-in-python-using-a-webcam/
 2. Simple Augmented Reality With OpenCV, Three.js, And WebSockets - https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/
-3.
-4.
-5.
-
-
-
+3. Pose Estimation using OpenCV - https://www.analyticsvidhya.com/blog/2021/05/pose-estimation-using-opencv/
+4. How to Develop a Virtual Keyboard Using OpenCV - https://www.analyticsvidhya.com/blog/2021/09/develop-a-virtual-keyboard-using-opencv/
+5. Javascript 3D animations : https://threejs.org/
 
 
 5 x artistic/design/aesthetic resources

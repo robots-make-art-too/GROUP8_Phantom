@@ -7,8 +7,8 @@
 
 5 x artistic/design/aesthetic resources
 
-1. https://www.booooooom.com/
-2. https://artsandculture.google.com/
-3. https://dribbble.com/
-4. Book: The Secret Lives of Colour by Kassia St Clair ( https://www.kassiastclair.com/books )
-5. https://99u.adobe.com/articles/64017/design-debate-in-the-age-of-social-media-self-promotion-do-creatives-still-need-personal-websites
+1. “New Age Demanded” Digital Sculptures by Artist Jon Rafman - https://www.booooooom.com/2014/02/25/new-age-demanded-digital-sculptures-artist-jon-rafman/
+2. Museum of Public Art - https://artsandculture.google.com/story/GQVBwXsDLxwA8A
+3. Story of the Forest - https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list/story-of-the-forest
+4. About the colour - Book: The Secret Lives of Colour by Kassia St Clair ( https://www.kassiastclair.com/books )
+5. Lisa Jackson's Biidaaban: First Light (VR project) - https://www.cbc.ca/player/play/1323281475810

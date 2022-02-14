@@ -1,7 +1,7 @@
 5 x technical resources 
 
 1. Face Detection in Python Using a Webcam - https://realpython.com/face-detection-in-python-using-a-webcam/
-2.
+2. Simple Augmented Reality With OpenCV, Three.js, And WebSockets - https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/
 3.
 4.
 5.

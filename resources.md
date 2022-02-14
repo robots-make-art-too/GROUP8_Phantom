@@ -7,11 +7,10 @@ Everyone first fetch this file into your own branch to edit and add your links s
 - 
 - 
 
-
-
 5 x artistic/design/aesthetic resources
-- 
-- 
+
+- https://www.models-resource.com/ - 3d models from various video games
+- https://colorsinspo.com/ - generated colour gradients  
 - 
 - 
 - 

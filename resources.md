@@ -1,6 +1,7 @@
 Everyone first fetch this file into your own branch to edit and add your links so then we can merge it back to main
 
 5 x technical resources
+dev-Imran
 - https://funprogramming.org/89-Create-your-own-photo-filters.html
 - https://www.quora.com/How-do-you-write-a-program-to-create-filters-for-photos
 - https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/
@@ -13,3 +14,5 @@ Everyone first fetch this file into your own branch to edit and add your links s
 - https://buildfire.com/create-amazing-app-icon/
 - https://help.sketchup.com/en/sketchup-web/sketchup-web
 - https://www.interaction-design.org/literature/topics/augmented-reality#:~:text=Augmented%20reality%20(AR)%20is%20an,the%20user's%20environment%2C%20typically%20movement.
+
+

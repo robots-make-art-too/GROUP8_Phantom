@@ -1,3 +1,20 @@
+dev-Zhihan
+Everyone first fetch this file into your own branch to edit and add your links so then we can merge it back to main
+
+5 x technical resources
+- https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/
+- https://knowm.org/how-to-make-real-time-charts-in-java/
+- https://www.geeksforgeeks.org/java-program-to-blur-image-using-smoothing/
+- https://www.youtube.com/watch?v=iLWOfSf_548
+- https://www.makeuseof.com/tag/build-social-media-bots-python/
+
+5 x artistic/design/aesthetic resources
+- https://paletton.com/#uid=5330u0kllllaFw0g0qFqFg0w0aF
+- http://designstacks.net/the-making-of-an-icon
+- http://www.sketchup.edu.my/tutorial-3-creating-spiral-staircase
+- https://www.headway.io/blog/designers-guide-to-icons
+- https://www.flaticon.com/free-icons/art
+
 dev-Muntaha
 
 My technical resources:
@@ -34,9 +51,9 @@ dev-Anthony
 * Photo of a very detailed rock generated within the world using AR- https://thesocietypages.org/cyborgology/files/2013/01/tumblr_mc2rfxMJSn1rgcobqo1_500.jpg 
 * Photo of a large balloon dog found at a park using AR- https://failedarchitecture.com/wp-content/uploads/2018/09/SebastianErrazurizKoons01LOW-e1537368308513.jpg
 
+dev-Imran
 
 5 x technical resources
-dev-Imran
 - https://funprogramming.org/89-Create-your-own-photo-filters.html
 - https://www.quora.com/How-do-you-write-a-program-to-create-filters-for-photos
 - https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/
@@ -51,4 +68,5 @@ dev-Imran
 - https://www.interaction-design.org/literature/topics/augmented-reality#:~:text=Augmented%20reality%20(AR)%20is%20an,the%20user's%20environment%2C%20typically%20movement.
 
  
+
 

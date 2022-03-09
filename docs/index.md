@@ -2,12 +2,6 @@
 permalink: index
 ---
 
-# Sample site for group projects
+# Website for Phase 2
 
-Just a little site example
-
-## AR content
-
-As they are updated you can find links to examples of the different types of AR.
-
-1. First, navigate to an example of using a `JavaScript` button to open the `AR` content we looked at [today](website/pages/index-1.html)
+ Please click on this link to open up our AR content for Phase 2: [Click Me!](website/pages/index-1.html)

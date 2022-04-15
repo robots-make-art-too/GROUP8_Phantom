@@ -1,3 +1,3 @@
-# Website for Phase 2
+# Website for Phase 3
 
- Please click on this link to open up our AR content for Phase 2: [Click Me!](website/AR-landing.html)
+ Please click on this link to open up our AR content for Phase 3: [Click Me!](website/AR-landing.html)

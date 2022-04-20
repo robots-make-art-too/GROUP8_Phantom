@@ -4,4 +4,4 @@ plugins:
 
 title: Phantom Website
 description: Website for EECS 1720 group project.
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-merlot
